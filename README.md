@@ -227,4 +227,4 @@ Calibre Portable is available as a full free version with all features and updat
 Take control of your eBook collection today! Download Calibre Portable for free and enjoy the ultimate reading experience on Windows.
 
 ---
-**Last updated:** 2026-09-22 10:32:03 UTC
+**Last updated:** 2026-09-22 15:14:07 UTC
